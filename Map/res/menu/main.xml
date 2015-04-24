@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.map.MainActivity" >
+
+    <!--
+         <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settiÏngs"/>
+    -->
+    
+    <item
+        android:id="@+id/action_search"        
+        android:title="ABCD"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/action_compose"
+        android:title="BCDEFGHI"
+        android:showAsAction="always"/>
+      <item
+        android:id="@+id/act"
+        android:showAsAction="always"
+        android:title="QWERTY"/>
+      
+      <item
+        android:id="@+id/act1"
+        android:showAsAction="always"
+        android:title="QWERTY"/>
+      
+      <item
+        android:id="@+id/act2"
+        android:showAsAction="always"
+        android:title="QWERTY2"/>
+      
+      <item
+        android:id="@+id/act3"
+        android:menuCategory="system"
+        android:showAsAction="always"
+        android:title="QWERTY3"/>
+    
+</menu>
